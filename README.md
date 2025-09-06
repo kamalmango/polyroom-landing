@@ -1,6 +1,6 @@
-# Polyroom Landing Page
+# PolyRoom Landing Page
 
-A beautiful and minimal landing page for Polyroom featuring glassmorphism aesthetics.
+A beautiful and minimal landing page for PolyRoom language learning app featuring glassmorphism aesthetics.
 
 ## Features
 

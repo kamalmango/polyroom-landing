@@ -17,7 +17,7 @@ function App() {
                 <span className="text-white font-bold text-xl">P</span>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                Polyroom
+                PolyRoom
               </span>
             </a>
 
@@ -175,9 +175,9 @@ function App() {
 
           {/* Text content */}
           <div className="text-center md:text-left ml-0 md:ml-16 mb-16 md:mb-0">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-3 bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">Polyroom</h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-3 bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">PolyRoom</h1>
             <p className="text-base md:text-lg text-white/80 font-light mb-6">
-              Crafting digital experiences with elegance
+              Master languages through immersive learning
             </p>
             
             <a 
@@ -194,18 +194,18 @@ function App() {
           <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-10 border border-white/10">
             <span className="text-white/60 mb-6 block text-sm tracking-wider uppercase">About Us</span>
             <p className="text-xl md:text-2xl font-light leading-relaxed">
-              At <span className="font-medium bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">Polyroom</span>, 
-              we develop innovative technologies and products from the ground up. 
-              Our goal is to achieve a lasting and beneficial effect on both our customers and the broader community.
+              At <span className="font-medium bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">PolyRoom</span>, 
+              we revolutionize language learning through cutting-edge technology and immersive experiences. 
+              Our mission is to break down language barriers and connect people across cultures worldwide.
             </p>
           </div>
         </div>
 
         {/* Features Section */}
         <div id="features" className="w-full max-w-6xl px-6 mb-48 scroll-mt-32">
-          <h2 className="text-4xl font-bold text-center mb-4">Cutting-Edge Features</h2>
+          <h2 className="text-4xl font-bold text-center mb-4">Advanced Learning Features</h2>
           <p className="text-lg text-white/80 text-center mb-16">
-            We combine innovative mobile technology with data-driven ASO strategies to create successful apps that users love
+            We combine AI-powered language processing with immersive learning techniques to create engaging educational experiences
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -216,9 +216,9 @@ function App() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Native App Development</h3>
+              <h3 className="text-xl font-semibold mb-3">Interactive Lessons</h3>
               <p className="text-white/70 leading-relaxed">
-                Building high-performance mobile applications with cutting-edge technologies and seamless user experiences.
+                Engaging, bite-sized lessons that adapt to your learning style and pace for maximum retention.
               </p>
             </div>
 
@@ -229,9 +229,9 @@ function App() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">App Store Optimization</h3>
+              <h3 className="text-xl font-semibold mb-3">Speech Recognition</h3>
               <p className="text-white/70 leading-relaxed">
-                Maximizing app visibility and downloads through strategic ASO techniques and market analysis.
+                Advanced AI-powered speech recognition to perfect your pronunciation and speaking skills.
               </p>
             </div>
 
@@ -242,9 +242,9 @@ function App() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Data-Driven Growth</h3>
+              <h3 className="text-xl font-semibold mb-3">Progress Tracking</h3>
               <p className="text-white/70 leading-relaxed">
-                Leveraging analytics and user behavior insights to continuously improve app performance and engagement.
+                Comprehensive analytics and progress tracking to monitor your learning journey and celebrate achievements.
               </p>
             </div>
           </div>
@@ -252,9 +252,9 @@ function App() {
 
         {/* In-house Tech Section */}
         <div id="tech" className="w-full max-w-6xl px-6 mb-48 scroll-mt-32">
-          <h2 className="text-4xl font-bold text-center mb-4">In-house tech that powers it all</h2>
+          <h2 className="text-4xl font-bold text-center mb-4">AI-Powered Learning Technology</h2>
           <p className="text-lg text-white/80 text-center mb-16">
-            Our proprietary technology stack enables rapid development and sustainable growth
+            Our advanced AI and machine learning algorithms create personalized learning experiences
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -268,9 +268,9 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-2xl font-semibold mb-3">Precision Market Fit</h3>
+                <h3 className="text-2xl font-semibold mb-3">Adaptive Learning</h3>
                 <p className="text-white/70 leading-relaxed">
-                  An in-house built algorithm to identify relevance allowing the development of high-demand profitable apps.
+                  AI algorithms that adapt to your learning patterns, optimizing difficulty and pacing for maximum retention.
                 </p>
               </div>
             </div>
@@ -285,9 +285,9 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-2xl font-semibold mb-3">Rapid Deployment</h3>
+                <h3 className="text-2xl font-semibold mb-3">Real-time Feedback</h3>
                 <p className="text-white/70 leading-relaxed">
-                  From opportunity identification to app launch in just one week, significantly faster than the industry standards.
+                  Instant corrections and suggestions powered by natural language processing for continuous improvement.
                 </p>
               </div>
             </div>
@@ -302,9 +302,9 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-2xl font-semibold mb-3">Track & Analyze</h3>
+                <h3 className="text-2xl font-semibold mb-3">Smart Analytics</h3>
                 <p className="text-white/70 leading-relaxed">
-                  Custom-built A/B testing and retention tracking mechanisms allowing for fast iteration and continuous LTV maximization.
+                  Comprehensive learning analytics that track your progress and identify areas for improvement.
                 </p>
               </div>
             </div>
@@ -369,9 +369,9 @@ function App() {
 
             {/* Content */}
             <div className="w-full md:w-1/2 text-left">
-              <h2 className="text-4xl font-bold mb-6">Track & Analyze</h2>
+              <h2 className="text-4xl font-bold mb-6">Learn & Progress</h2>
               <p className="text-lg text-white/80 mb-8 leading-relaxed">
-                Our custom-built analytics platform provides deep insights into user behavior and app performance. Make data-driven decisions with real-time metrics and comprehensive reporting.
+                Our intelligent learning platform tracks your progress and adapts to your learning style. Get personalized insights and celebrate your language milestones.
               </p>
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
@@ -381,8 +381,8 @@ function App() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-xl font-semibold mb-2">Real-time Analytics</h3>
-                    <p className="text-white/70">Monitor user engagement and app performance with live data streams and instant insights.</p>
+                    <h3 className="text-xl font-semibold mb-2">Learning Insights</h3>
+                    <p className="text-white/70">Track your vocabulary growth, speaking confidence, and comprehension skills with detailed progress reports.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -392,8 +392,8 @@ function App() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-xl font-semibold mb-2">A/B Testing</h3>
-                    <p className="text-white/70">Optimize your app with data-driven experiments and user behavior analysis.</p>
+                    <h3 className="text-xl font-semibold mb-2">Personalized Learning</h3>
+                    <p className="text-white/70">AI-powered recommendations that adapt lesson content based on your strengths and areas for improvement.</p>
                   </div>
                 </div>
               </div>
@@ -403,9 +403,9 @@ function App() {
 
         {/* App Categories Section */}
         <div id="categories" className="w-full max-w-6xl px-6 mb-48 scroll-mt-32">
-          <h2 className="text-4xl font-bold text-center mb-4">App Categories</h2>
+          <h2 className="text-4xl font-bold text-center mb-4">Learning Features</h2>
           <p className="text-lg text-white/80 text-center mb-16">
-            We develop apps across various categories, each crafted with precision and purpose
+            Comprehensive language learning tools designed to make your journey engaging and effective
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
@@ -419,8 +419,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Graphics & Design</h3>
-                <p className="text-white/70 text-sm">Creative tools for artists and designers</p>
+                <h3 className="text-lg font-semibold mb-2">Vocabulary Builder</h3>
+                <p className="text-white/70 text-sm">Smart flashcards and spaced repetition</p>
               </div>
             </div>
 
@@ -435,8 +435,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Utilities</h3>
-                <p className="text-white/70 text-sm">Essential tools for productivity</p>
+                <h3 className="text-lg font-semibold mb-2">Grammar Coach</h3>
+                <p className="text-white/70 text-sm">Interactive grammar lessons and exercises</p>
               </div>
             </div>
 
@@ -450,8 +450,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Health & Fitness</h3>
-                <p className="text-white/70 text-sm">Apps for wellness and exercise</p>
+                <h3 className="text-lg font-semibold mb-2">Conversation Practice</h3>
+                <p className="text-white/70 text-sm">AI chatbots for realistic conversations</p>
               </div>
             </div>
 
@@ -465,8 +465,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Education</h3>
-                <p className="text-white/70 text-sm">Learning and skill development</p>
+                <h3 className="text-lg font-semibold mb-2">Cultural Context</h3>
+                <p className="text-white/70 text-sm">Learn language through cultural immersion</p>
               </div>
             </div>
 
@@ -480,8 +480,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Productivity</h3>
-                <p className="text-white/70 text-sm">Tools to enhance workflow</p>
+                <h3 className="text-lg font-semibold mb-2">Pronunciation Guide</h3>
+                <p className="text-white/70 text-sm">Perfect your accent with audio feedback</p>
               </div>
             </div>
 
@@ -496,8 +496,8 @@ function App() {
                     </svg>
                   </div>
                 </div>
-                <h3 className="text-lg font-semibold mb-2">Entertainment</h3>
-                <p className="text-white/70 text-sm">Fun and engaging experiences</p>
+                <h3 className="text-lg font-semibold mb-2">Story Mode</h3>
+                <p className="text-white/70 text-sm">Learn through interactive stories</p>
               </div>
             </div>
           </div>
@@ -505,7 +505,7 @@ function App() {
       </main>
       
       <footer className="py-6 text-xs text-white/30 text-center w-full">
-        &copy; {new Date().getFullYear()} Polyroom. All rights reserved.
+        &copy; {new Date().getFullYear()} PolyRoom. All rights reserved.
       </footer>
     </div>
   )
