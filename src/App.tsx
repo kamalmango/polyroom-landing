@@ -1,6 +1,10 @@
 import './App.css'
+import { Routes, Route, Link } from 'react-router-dom'
+import Terms from './Terms'
+import Privacy from './Privacy'
+import Contact from './Contact'
 
-function App() {
+function HomePage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-6 pb-16 relative">
       {/* Simple, subtle background elements */}
@@ -505,9 +509,27 @@ function App() {
       </main>
       
       <footer className="py-6 text-xs text-white/30 text-center w-full">
+        <div className="mb-2">
+          <Link to="/contact" className="hover:text-white/60 mx-2">Contact</Link>
+          <span className="mx-2">|</span>
+          <Link to="/terms" className="hover:text-white/60 mx-2">Terms of Use</Link>
+          <span className="mx-2">|</span>
+          <Link to="/privacy" className="hover:text-white/60 mx-2">Privacy Policy</Link>
+        </div>
         &copy; {new Date().getFullYear()} PolyRoom. All rights reserved.
       </footer>
     </div>
+  )
+}
+
+function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<HomePage />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/terms" element={<Terms />} />
+      <Route path="/privacy" element={<Privacy />} />
+    </Routes>
   )
 }
 
