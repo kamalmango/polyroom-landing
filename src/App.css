@@ -1,0 +1,7 @@
+/* The main styles are defined in index.css using Tailwind */
+
+/* Optional additional custom styles can be added here */
+
+html {
+  scroll-behavior: smooth;
+}
